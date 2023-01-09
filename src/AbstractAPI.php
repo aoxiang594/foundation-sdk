@@ -1,6 +1,6 @@
 <?php
 
-namespace Hanson\Foundation;
+namespace Aoxiang\Foundation;
 
 use Psr\Http\Message\RequestInterface;
 

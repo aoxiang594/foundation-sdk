@@ -1,6 +1,6 @@
 <?php
 
-namespace Hanson\Foundation;
+namespace Aoxiang\Foundation;
 
 use Monolog\Handler\ErrorLogHandler;
 use Monolog\Handler\NullHandler;

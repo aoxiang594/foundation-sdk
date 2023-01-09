@@ -1,6 +1,6 @@
 <?php
 
-namespace Hanson\Foundation;
+namespace Aoxiang\Foundation;
 
 use GuzzleHttp\Handler\MockHandler;
 use PHPUnit\Framework\TestCase;

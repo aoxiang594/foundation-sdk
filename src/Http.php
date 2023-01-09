@@ -1,10 +1,10 @@
 <?php
 
-namespace Hanson\Foundation;
+namespace Aoxiang\Foundation;
 
 use GuzzleHttp\Client as HttpClient;
 use GuzzleHttp\HandlerStack;
-use Hanson\Foundation\Exception\HttpException;
+use Aoxiang\Foundation\Exception\HttpException;
 use Psr\Http\Message\ResponseInterface;
 
 /**

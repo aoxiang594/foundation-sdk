@@ -1,6 +1,6 @@
 <?php
 
-namespace Hanson\Foundation;
+namespace Aoxiang\Foundation;
 
 use Doctrine\Common\Cache\Cache;
 use Doctrine\Common\Cache\FilesystemCache;

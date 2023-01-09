@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hanson\Foundation\Exception;
+namespace Aoxiang\Foundation\Exception;
 
 use Exception;
 
